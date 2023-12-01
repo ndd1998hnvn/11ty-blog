@@ -1,0 +1,14 @@
+---
+layout: layout.njk
+pagination:
+    data: posts
+    size: 1
+    alias: post
+permalink: "/posts/{{ post.title | slugify }}/"
+---
+
+<div>
+    <a href="../">Back</a>
+</div>
+<h1>{{post.title}}</h1>
+<p>{{post.body}}</p>
