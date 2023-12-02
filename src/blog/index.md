@@ -1,8 +1,9 @@
 ---
-layout: layout.njk
+title: Blog
+eleventyExcludeFromCollections: true
 ---
 
-# POST
+# Blog
 
 <!-- <h1>My blog</h1> -->
 

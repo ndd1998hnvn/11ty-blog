@@ -1,7 +1,7 @@
 ---
-layout: layout.njk
 title: What is a CDN
-tags: ['blog', 'cdn']
+tags: 
+    - css
 ---
 
 # What is a CDN

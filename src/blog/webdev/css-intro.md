@@ -1,7 +1,7 @@
 ---
-layout: layout.njk
 title: "CSS: Cascading Style Sheets"
-tags: ['blog', 'css']
+tags:
+    - css
 ---
 
 # CSS: Cascading Style Sheets
